@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\serverskastr\\kontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|solutionrelative:serverskastr\\kontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\serverskastr\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|solutionrelative:serverskastr\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\serverskastr\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|solutionrelative:serverskastr\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\serverskastr\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|solutionrelative:serverskastr\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1AC4A4-4E2A-4B36-B0E3-59766301A236}|Komunikacija\\Komunikacija.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\komunikacija\\jsnnetworkserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1AC4A4-4E2A-4B36-B0E3-59766301A236}|Komunikacija\\Komunikacija.csproj|solutionrelative:komunikacija\\jsnnetworkserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1AC4A4-4E2A-4B36-B0E3-59766301A236}|Komunikacija\\Komunikacija.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\komunikacija\\poruka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1AC4A4-4E2A-4B36-B0E3-59766301A236}|Komunikacija\\Komunikacija.csproj|solutionrelative:komunikacija\\poruka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\serverskastr\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|solutionrelative:serverskastr\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2569F65D-9BCB-41BD-91DE-BF6E6D149FA7}|Domen\\Domen.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\domen\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2569F65D-9BCB-41BD-91DE-BF6E6D149FA7}|Domen\\Domen.csproj|solutionrelative:domen\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\serverskastr\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|solutionrelative:serverskastr\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD371D-0F2A-4B28-B95E-BB774DA836D2}|Forme\\Forme.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\forme\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AD371D-0F2A-4B28-B95E-BB774DA836D2}|Forme\\Forme.csproj|solutionrelative:forme\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\serverskastr\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{243B531A-6D06-40BE-81BC-81F730CE1F9F}|ServerskaStr\\ServerskaStr.csproj|solutionrelative:serverskastr\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD371D-0F2A-4B28-B95E-BB774DA836D2}|Forme\\Forme.csproj|c:\\users\\pc\\documents\\podmornice5\\podmornice5\\forme\\klijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AD371D-0F2A-4B28-B95E-BB774DA836D2}|Forme\\Forme.csproj|solutionrelative:forme\\klijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD371D-0F2A-4B28-B95E-BB774DA836D2}|Forme\\Forme.csproj|C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\forme\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37AD371D-0F2A-4B28-B95E-BB774DA836D2}|Forme\\Forme.csproj|solutionrelative:forme\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 492,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\Server.cs",
+              "RelativeDocumentMoniker": "ServerskaStr\\Server.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\Server.cs",
+              "RelativeToolTip": "ServerskaStr\\Server.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:47:58.064Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Klijent.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Forme\\Klijent.cs",
+              "RelativeDocumentMoniker": "Forme\\Klijent.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Forme\\Klijent.cs",
+              "RelativeToolTip": "Forme\\Klijent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:55:12.4Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmServer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\FrmServer.cs",
+              "RelativeDocumentMoniker": "ServerskaStr\\FrmServer.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\FrmServer.cs",
+              "RelativeToolTip": "ServerskaStr\\FrmServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:04:07.578Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "ServerskaStr\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\FrmLogin.cs",
+              "RelativeToolTip": "ServerskaStr\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:56:25.901Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kontroler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\Kontroler.cs",
+              "RelativeDocumentMoniker": "ServerskaStr\\Kontroler.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\Kontroler.cs",
+              "RelativeToolTip": "ServerskaStr\\Kontroler.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:45:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "ServerskaStr\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\ClientHandler.cs",
+              "RelativeToolTip": "ServerskaStr\\ClientHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:58:37.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsnNetworkSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Komunikacija\\JsnNetworkSerializer.cs",
+              "RelativeDocumentMoniker": "Komunikacija\\JsnNetworkSerializer.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Komunikacija\\JsnNetworkSerializer.cs",
+              "RelativeToolTip": "Komunikacija\\JsnNetworkSerializer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:13:12.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Domen\\Admin.cs",
+              "RelativeDocumentMoniker": "Domen\\Admin.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Domen\\Admin.cs",
+              "RelativeToolTip": "Domen\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:03:48.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Poruka.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Komunikacija\\Poruka.cs",
+              "RelativeDocumentMoniker": "Komunikacija\\Poruka.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Komunikacija\\Poruka.cs",
+              "RelativeToolTip": "Komunikacija\\Poruka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:10:41.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmGlavna.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Forme\\FrmGlavna.cs",
+              "RelativeDocumentMoniker": "Forme\\FrmGlavna.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Forme\\FrmGlavna.cs",
+              "RelativeToolTip": "Forme\\FrmGlavna.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:02:56.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "ServerskaStr\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "ServerskaStr\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:46:50.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmServer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\ServerskaStr\\FrmServer.cs",
+              "RelativeDocumentMoniker": "ServerskaStr\\FrmServer.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Podmornice5\\ServerskaStr\\FrmServer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Podmornice5\\ServerskaStr\\FrmServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:03:55.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmGlavna.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Podmornice5\\Podmornice5\\Forme\\FrmGlavna.cs",
+              "RelativeDocumentMoniker": "Forme\\FrmGlavna.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Podmornice5\\Forme\\FrmGlavna.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Podmornice5\\Forme\\FrmGlavna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:02:54.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
